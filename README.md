@@ -33,8 +33,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [Social proof section solution]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Social proof section solution](https://www.frontendmentor.io/solutions/social-proof-section-solution-lVBgWrXIDc)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/social-proof-section-master/)
 
 ## My process
 
